@@ -2854,6 +2854,12 @@ CONFIG_MACH_NO_WESTBRIDGE=y
 # CONFIG_ALTERA_STAPL is not set
 
 #
+# Qualcomm Atheros Prima WLAN module
+#
+CONFIG_PRIMA_WLAN=m
+# CONFIG_PRIMA_WLAN_BTAMP is not set
+
+#
 # ZTE FTM
 #
 CONFIG_ZTE_FTM=y
